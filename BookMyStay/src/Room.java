@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Room
+public abstract class Room
 {
 
             protected int numberOfBeds;
